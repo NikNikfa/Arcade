@@ -37,5 +37,6 @@ Arcade/
 ROMs: To avoid copyright issues, ROM files are kept in private folders and are not shared in this repository.
 
 Git workflow: For each new feature or game, create a separate branch:
-```bash 
+   ```bash 
    git checkout -b feature/my-new-game
+
