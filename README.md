@@ -7,7 +7,6 @@ It also serves as a practice ground for **Game Design** , **GDScript (Godot Engi
 You can also find documents about the actual arcade machine I'm building with a **Raspberry Pi** !
 
 
----
 
 ## 📂 Folder Structure
 
@@ -25,7 +24,6 @@ Arcade/
 └── README.md ← This file
 ```
 
----
 
 ## 🚀 Getting Started
 
@@ -42,7 +40,7 @@ Arcade/
 ROMs: To avoid copyright issues, ROM files are kept in private folders and are not shared in this repository.
 
 Git workflow: For each new feature or game, create a separate branch:
-```bash 
+   ```bash 
    git checkout -b feature/my-new-game
 ```
 
