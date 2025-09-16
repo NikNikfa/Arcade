@@ -4,7 +4,6 @@ Welcome to the **Arcade Project**!
 This repository contains all of my personal arcade-style games and is designed as a place to **develop, organize, and share** small games and simulators.  
 It also serves as a practice ground for **Game Design** and **GDScript (Godot Engine)**.
 
----
 
 ## 📂 Folder Structure
 
@@ -22,7 +21,6 @@ Arcade/
 └── README.md ← This file
 ```
 
----
 
 ## 🚀 Getting Started
 
@@ -41,6 +39,7 @@ ROMs: To avoid copyright issues, ROM files are kept in private folders and are n
 Git workflow: For each new feature or game, create a separate branch:
 ```bash 
    git checkout -b feature/my-new-game
+
 
 
 
