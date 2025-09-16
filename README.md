@@ -39,7 +39,3 @@ ROMs: To avoid copyright issues, ROM files are kept in private folders and are n
 Git workflow: For each new feature or game, create a separate branch:
 ```bash 
    git checkout -b feature/my-new-game
-
-
-
-
