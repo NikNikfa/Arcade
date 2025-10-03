@@ -15,8 +15,8 @@ Arcade/
 ├── games/ ← Games I develop
 │ ├── library-defender/ ← My first game
 │ │ ├── assets/ ← Images, sprites, sounds
-│ │ ├── src/ ← Scripts (GDScript)
-│ │ └── project.godot ← Godot project file
+│ │ ├── src/ ← Scripts (C#/GDScript)
+│ │ └── project.unity/.godot ← Unity/Godot project file
 │ └── future-game/ ← Other games I create in the future
 │
 ├── roms/ ← Old arcade ROMs (for personal use; keeping private is recommended)
@@ -57,3 +57,4 @@ Git workflow: For each new feature or game, create a separate branch:
 - Improve documentation and add design notes for each game.
 - Explore multiplayer or online arcade-style games.
 - Share finished builds for public testing.
+
